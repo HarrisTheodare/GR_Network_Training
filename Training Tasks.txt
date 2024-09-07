@@ -1,151 +1,201 @@
-1.] Create Beautiful Home Page using Plain HTML, CSS, JS, and Bootstrap if needed
+1. Create Beautiful Home Page using Plain HTML, CSS, JS, and Bootstrap if needed (1.5points)
 {
-Source Code:https://github.com/Svignesh1604/Home-Page.git
-Hosted Link:http://vignesh-mainpage.netlify.app/
+  Hosted link:  https://harristheodare.neocities.org/HOME%20PAGE%20PROJECT%20TASK/
+
+Source Code FOr Home PAge: https://github.com/HarrisTheodare/Learners_Profile
+ 
 }
 
-2.] Beautiful Image Slide Show Animation using HTML, CSS, JS, and Bootstrap if needed
+2. Beautiful Image Slide Show Animation using HTML, CSS, JS, and Bootstrap if needed (1.5 points)
 {
-Source code:https://github.com/Svignesh1604/SlideShows.git
-Hosted Link:http://vignesh-slideshow.netlify.app/
+Hosted Link: https://harristheodare.neocities.org/SlideShow%20Project/
+
+Source Code :    https://github.com/HarrisTheodare/Slideshow_TAsk 
 }
 
-3.] Create the Beautiful About Page and FAQ Page
+3. Create the Beautiful About Page and FAQ Page (2 points)
 {
-Source Code:https://github.com/Svignesh1604/FAQ_T-C_ABOUT-US.git
-Hosted Link:http://vignesh-about-us-faq-t-c.netlify.app/
+About page :
+Hosted link : https://harristheodare.neocities.org/About%20US%20PRoJECT%20Task/
+Source Code :  https://github.com/HarrisTheodare/About-US-Task
+
+FAQ PAge :
+Hosted link :  https://harristheodare.neocities.org/FAQ%20PROJECT%20TASK/
+Source Code :  https://github.com/HarrisTheodare/FAQ_Task
+
+
 }
 
-4.] Subscription Page
+4. Subscription Page (2 points )
 {
-Source Code:https://github.com/Svignesh1604/Subscription.git
-Hosted Link:http://vignesh-susbscription.netlify.app/
+Source Code: https://github.com/HarrisTheodare/Subscription_TAsk
+
+Hosted Link :  https://harristheodare.neocities.org/SUBSCRIPTION%20Project/Subscription%20Project
 }
 
-5.] Blog/Article Page
+5. Blog/Article Page (2 points ) 
 {
-Source Code:https://github.com/Svignesh1604/Articles.git
-Hosted Link:http://vignesh-article.netlify.app/
+Source Code : https://github.com/HarrisTheodare/BLog_Page-_Task
+
+Hosted Link : https://harristheodare.neocities.org/Blog_Article%20Task/
 }
 
-6.] Team Page
+6. Team Page (2 points )
 {
-Source Code:https://github.com/Svignesh1604/Team-Page.git
-Hosted Link:http://vignesh-teampage.netlify.app/
+Source Code : https://github.com/HarrisTheodare/Team_Page_Task
+
+Hosted Link :  https://harristheodare.neocities.org/TEAM%20PAGE%20TASK/Project%2022/
 }
 
-7.] Learner Profile
+7. Learner Profile (2.5 points )
 {
-Source Code:https://github.com/Svignesh1604/Learner-Profile.git
-Hosted Link:http://vignesh-learnerpage.netlify.app/
+Hosted LInk:  https://harristheodare.neocities.org/Learners_Page/profile
+Source Code LInk : https://github.com/HarrisTheodare/Course-Page-
+
+https://harristheodare.github.io/Learner-Page/  while clicking this task  it will show dangerous so click details and click visit this unsafe site to see the content
+
+These two are learner profile created with the help of html css and js 
 }
 
-8.] Course Page
+8. Course Page (1.5 points )
 {
-Source Code:https://github.com/Svignesh1604/CoursePage.git
-Hosted Link:http://vignesh-coursepage.netlify.app/
+Housted link :  https://harristheodare.neocities.org/Courses_Page_Task/
+
+Source Code:  https://github.com/HarrisTheodare/Courses_Page_Task
+this the course page created using html cs and js
 }
 
-9.] Payment Page 
+9. Payment Page 
 {
-Source Code:https://github.com/Svignesh1604/PaymenstGateaway.git
-Hosted Link:http://vignesh-payment.netlify.app/
+Hosted Link : https://harristheodare.github.io/Payements-Page/
+Source Code: https://github.com/HarrisTheodare/Payements-Page
 }
 
 10.] Subscription List 
 {
-Source Code:https://github.com/Svignesh1604/Subscription_Receipt.git
-Hosted Link:http://subscription-receipt-vignesh.netlify.app/
+Source Code : https://github.com/HarrisTheodare/Ackownlegment_Task
+
+Hosted Link : https://harristheodare.github.io/Ackownlegment_Task/
 }
 
-11.] Courses Option in Learner Page
+11. Courses Option in Learner Page
 {
-Source Code:https://github.com/Svignesh1604/MyCourse-LearnerProfile.git
-Hosted Link:http://vignesh-mycourse-page.netlify.app/
+https://harristheodare.neocities.org/Learners_Page/courses
+Source Code : https://github.com/HarrisTheodare/Course-Page-
+
+
+Source code:  https://github.com/HarrisTheodare/Learner-Page
+https://harristheodare.github.io/Learner-Page/courses.html#
 }
 
-12.] Watch Course Page
+12. Watch Course Page
 {
-Source Code:https://github.com/Svignesh1604/Mycourse-watchvideo.git
-Hosted Link:http://vignesh-coursevideo.netlify.app/
+Hosted Link : https://harristheodare.neocities.org/Learners_Page/playlist
+Source Code :  https://github.com/HarrisTheodare/Course-Page-/blob/main/watch-video.html
 }
 
-13.] Awards and recognition page
+13. Awards and recognition page
 {
-Source Code:https://github.com/Svignesh1604/Awards-Recognition.git
-Hosted Link:http://vignesh-award-recognition.netlify.app/
+Hosted Link :  https://www.sundt.com/about/awards-recognition/
+Source Code : view-source:https://www.sundt.com/about/awards-recognition/
+
+Hosted Link : https://harristheodare.neocities.org/AAwards/
+Source Code : https://github.com/HarrisTheodare/Awards-Task
 }
 
-14.] Founder Vision Page
+14. Founder Vision Page
 {
-Source Code:https://github.com/Svignesh1604/Founder-Vision.git
-Hosted Link:http://vignesh-founder-vision.netlify.app/
+Hosted Link :  https://harristheodare.neocities.org/%20%20%20%20Founders%20Vision%20Task%20/
+Source Code :  https://github.com/HarrisTheodare/Founders-Vision-Task-
+
+Hosted Link :  https://harristheodare.neocities.org/%20%20%20%20Founders%20Vision%20Task%20/Task%20Project%202/
+Source Code : https://github.com/HarrisTheodare/Vision-Task-2
 }
 
-15.] About Chairman & CEO page
+15. About Chairman & CEO page
 {
-Source Code:https://github.com/Svignesh1604/CEO-Vision.git
-Hosted Link:http://vignesh-ceo-visionpage.netlify.app/
+Hosted Link :  https://harristheodare.neocities.org/%200%20Chairman%20&amp;%20CEO%20TAsks/Project%201/
+Source Code : https://github.com/HarrisTheodare/CEO-TAsk-1
+
+Hosted Link :  https://harristheodare.neocities.org/%200%20Chairman%20&amp;%20CEO%20TAsks/Project%202/
+Source Code :  https://github.com/HarrisTheodare/CEO-TASK-2
+
+Hosted Link :  https://harristheodare.neocities.org/%200%20Chairman%20&amp;%20CEO%20TAsks/Project%203/
+Source Code :  https://github.com/HarrisTheodare/CEO-TASK-3
 }
 
-16.] About Executive Leadership Team Page
+16. About Executive Leadership Team Page
 {
-Source Code:https://github.com/Svignesh1604/Executive-Leaderships.git
-Hosted Link:vignesh-leadership-profile.netlify.app
+Hosted Link : https://harristheodare.neocities.org/!%20Leadership%20Tasks/Project%201/
+Source Code : https://github.com/HarrisTheodare/Leadership-Task1
 }
 
-17.] Learners count, courses count section Page 
+17. Learners count, courses count section Page 
 {
-Source Code:https://github.com/Svignesh1604/Learners-Count.git
-Hosted Link:http://vignesh-learners-count.netlify.app/
+Hosted Link :  https://harristheodare.neocities.org/learners%20Count%20Tasks/Project%202/#
+Source Code : https://github.com/HarrisTheodare/Learner_Count_TAsk-1
+
+Hosted Link : https://harristheodare.neocities.org/learners%20Count%20Tasks/Project%201/
+Source Code : https://github.com/HarrisTheodare/Count_TAsk2
 }
 
-18.] Recent events & activities page
+18. Recent events & activities page
 {
-Source Code:https://github.com/Svignesh1604/Recent-events-Activities.git
-Hosted Link:http://vignesh-events-activities.netlify.app/
+Hosted Link :  https://harristheodare.neocities.org/%20%20Events%20&amp;%20Activities%20TAsks/Project%201/
+Source Code : https://github.com/HarrisTheodare/Events-Activites-TAsks
 }
 
-19.] Custom pop up images/slideshow
+19. Custom pop up images/slideshow
 {
-Source Code:https://github.com/Svignesh1604/PopUps-Slider.git
-Hosted Link:vignesh-custom-popup-slider.netlify.app
+Hosted Link : https://harristheodare.neocities.org/%20%20%20Pop%20Up%20Tasks/Project%201/index%20
+Source Code :  https://github.com/HarrisTheodare/Pop-UP-TAsks
 }
 
-20.] Leaners Testimonials Page 
+20. Leaners Testimonials Page 
 {
-Source Code:https://github.com/Svignesh1604/Testimonials.git
-Hosted Link:vignesh-testimonials.netlify.app
+Hosted Link : https://harristheodare.neocities.org/Learners_Page/about
+Source Code : https://github.com/HarrisTheodare/Course-Page-/blob/main/about.html
+
+Hosted Link : https://harristheodare.neocities.org/Testimonal%20TAsk/Project%201/
+Source Code :  https://github.com/HarrisTheodare/Learner_Testimonal_TAsk
+
+Hosted Link :  https://harristheodare.neocities.org/Testimonal%20TAsk/Project%202/
+Source Code : https://github.com/HarrisTheodare/Learners_Testimonal_TAsk2
 }
 
-21.] Careers Page 
+21.] Careers Page (2.5 points ) 
 {
-Source Code:https://github.com/Svignesh1604/Carrer-Page-With-offCampus.git
-Hosted Link:http://vignesh-off-campus.netlify.app/
+Source Code : https://github.com/HarrisTheodare/Carrer_Page-_TAsk
+
+Hosted Link :  https://harristheodare.neocities.org/0%20Carrer%20Page%20TAsk%20Project/Task%20Project%201%20/
 }
 
-22.] Newsroom Page
+22. Newsroom Page (1.5 points )
 {
-Source Code:https://github.com/Svignesh1604/Newsroom-Page.git
-Hosted Link:http://vignesh-newsroom.netlify.app/
+Hosted Link :  https://harristheodare.neocities.org/0NewsRoom%20Tasks/Orginal_TASk%201/
+Source code  :  https://github.com/HarrisTheodare/NewsRoom-Task-1
 }
 
-23.] Company  Gallery Page 
+23. Company  Gallery Page (2.5 points )
 {
-Source Page:https://github.com/Svignesh1604/Company-Image-Gallery.git
-Hosted Link:http://vignesh-imagegallery.netlify.app/
+Hosted Link : https://harristheodare.neocities.org/1%20Campany%20Gallery%20TAsks/Task%202/
+Source Code : https://github.com/HarrisTheodare/Company_Gallery-TAsk1
+
+Hosted Link :  https://harristheodare.neocities.org/1%20Campany%20Gallery%20TAsks/TASk1/
+Source Code :  https://github.com/HarrisTheodare/Gallery_TAsk2
 }
 
-24.] Flash news Page 
+24. Flash news Page (2 points )
 {
-Source Code:https://github.com/Svignesh1604/Flashnews.git
-Hosted Link:http://vignesh-flashnews.netlify.app/
+Source Code :  https://github.com/HarrisTheodare/News_Task1
+Hosted Link :  https://harristheodare.neocities.org/0NewsRoom%20Tasks/Task%20Project%201/
+ 
 }
 
-25.] Notification Page
+25. Notification Page (1.5 points )
 {
-Source Code:https://github.com/Svignesh1604/Notification-Page.git
-Hosted Link:http://vignesh-notification.netlify.app/
+Hosted Link :    https://harristheodare.neocities.org/0%20Notification%20Tasks/Task1/
+Source Code :  https://github.com/HarrisTheodare/Notification_-Task-1
 }
 
 
