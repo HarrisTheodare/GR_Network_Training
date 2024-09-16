@@ -198,7 +198,49 @@ Hosted Link :    https://harristheodare.neocities.org/0%20Notification%20Tasks/T
 Source Code :  https://github.com/HarrisTheodare/Notification_-Task-1
 }
 
+26. Leaderboard
 
+Hosted Link :
+https://harristheodare.neocities.org/%20%20LeaderBoard_Task1/
+Source Code :
+https://github.com/HarrisTheodare/LeaderBoard_Task1
+Task1 
+
+Hosted Link:
+https://harristheodare.neocities.org/%20%20LeaderBoard_Task1/Project%202/
+Source Code:
+https://github.com/HarrisTheodare/LeaderBoard_Task2
+Task2
+
+Comined Task
+Source Code :  https://github.com/HarrisTheodare/Leader_Board_Task
+ Hosted Link :  https://harristheodare.neocities.org/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200%20Original%20LeaderBoard_Task/
+ 
+
+27. User profile ( this is different from learner profile )
+Hosted Link :
+https://harristheodare.neocities.org/%20%20%20%20%20%20%20%200User_Profile_Tasks/Project%201/UserProfile
+
+Source Code :
+https://github.com/HarrisTheodare/User_Profile_Task1
+
+
+28. Quiz page
+
+Hosted Link : 
+https://harristheodare.neocities.org/%20%20%20%20%20%20%200Quiz_Page_Taks/Project1/
+
+Source Code :
+https://github.com/HarrisTheodare/Quiz_Page_Task1
+
+
+29. Certificate generation and certificate display page
+
+Hosted Link : 
+https://harristheodare.neocities.org/%20%20%20Certificate%20Generator/Project%202/
+
+Source Code :
+https://github.com/HarrisTheodare/Certificate_Generator_Task 
 
 
 
