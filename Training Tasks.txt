@@ -242,7 +242,17 @@ https://harristheodare.neocities.org/%20%20%20Certificate%20Generator/Project%20
 Source Code :
 https://github.com/HarrisTheodare/Certificate_Generator_Task 
 
+30. Second task just recreate this scenario for featuring courses and articles in home page 
 
+Source Code :  https://github.com/HarrisTheodare/Course-Article-On-Home-Page-Task
+
+Hosted Link :  https://harristheodare.neocities.org/%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%200%20Course%20&%20Article%20On%20Home%20Page%20TAsk/
+
+31. First task: Our Learners working companies
+
+Source Code :  https://github.com/HarrisTheodare/Our_Clients_Task
+
+Hosted Link : https://harristheodare.neocities.org/%20%20%20%20%20%20%20%20%20%20%200%20Our%20Partner%20TAsks/Project%201/
 
 
 
